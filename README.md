@@ -1,4 +1,3 @@
 - Hi, I’m @Haider-Zia
-- I’m currently learning Flutter, React JS, and Node JS.
-- hitherehaiderhithere@gmail.com
-
+- I’m currently working on projects using React, Node, and SQL.
+- On the side, I'm in the initial phase of making a social networking platform for people who help stray animals. Please connect with me if that is something that resonates with you. 
