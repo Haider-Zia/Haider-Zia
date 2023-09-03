@@ -1,3 +1,3 @@
 - Hi, I’m @Haider-Zia
-- I’m currently working on projects using React, Node, and SQL.
-- On the side, I'm in the initial phase of making a social networking platform for people who help stray animals. Please connect with me if that is something that resonates with you. 
+- I have primarily worked using Flutter, React, Node, and SQL.
+- I'm making a social networking platform for people and businesses who help stray animals. 
