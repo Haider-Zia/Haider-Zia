@@ -1,3 +1,3 @@
 - Hi, I’m @Haider-Zia
-- I have primarily worked using React, Node, PostgreSQL, and Flutter.
+- I have primarily worked using NodeJS, NestJS, Jest, PostgreSQL, MySQL, React, and Flutter.
 - I'm making a social networking platform for people and businesses who help stray animals. 
